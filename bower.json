@@ -1,0 +1,24 @@
+{
+  "name": "qiniu-js-sdk",
+  "version": "0.0.1",
+  "homepage": "https://github.com/williamherry/qiniu-js-sdk",
+  "authors": [
+    "William Herry <WilliamHerryChina@Gmail.com>"
+  ],
+  "description": "Qiniu JavaScript SDK",
+  "main": "qiniu.js",
+  "keywords": [
+    "qiniu"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "plupload": "~2.1.2"
+  }
+}
